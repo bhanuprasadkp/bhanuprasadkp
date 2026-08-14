@@ -1,138 +1,151 @@
 # 👋 Hi, I'm Bhanu Prasad Pambala
 
-### Associate Director QA | Quality Engineering Leader | AI-Powered Testing & Test Automation
+### Senior Quality Engineering Leader | Associate Director QA | AI & GenAI Testing | Test Automation | Performance Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhanu%20Prasad%20Pambala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuprasad-pambala/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanukp2007@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-I am a Quality Engineering Leader with extensive experience in software testing, QA leadership, test automation, and enterprise product quality across Logistics/Supply Chain Management, Information Technology, and Mortgage domains.
+I am a **Senior Quality Engineering Leader / Associate Director QA** with **15+ years of experience** in software quality engineering, test management, automation, performance engineering, and enterprise SaaS products.
 
-Currently working as an **Associate Director QA at ShipConsole**, focusing on building scalable quality engineering practices for enterprise shipping and carrier integration solutions.
+Currently working in the **enterprise shipping and supply chain domain**, with a strong focus on building scalable QA practices, modern test automation, CI/CD quality engineering, and AI-powered testing.
 
-My experience spans:
+I combine **QA leadership and hands-on technical expertise** to improve product quality, accelerate delivery, and establish sustainable engineering practices.
 
-- Quality Engineering & Test Management
-- Test Strategy, Planning & Execution
+### My Core Focus
+
+- Quality Engineering & QA Leadership
+- Test Strategy, Planning & Management
 - UI & API Test Automation
-- Playwright & Selenium WebDriver
+- Playwright & Selenium
 - Performance Engineering with Grafana k6
-- AI-Powered / GenAI Testing
-- Enterprise Shipping & SCM Solutions
-- Functional, Regression & System Testing
-- Test Automation Framework Design
-- CI/CD Quality Engineering
-- Defect Management & Release Quality
-- QA Team Leadership & Stakeholder Management
-
-I enjoy solving complex quality challenges, modernizing test automation, and exploring how AI can transform software testing and quality engineering.
+- GenAI / LLM Application Testing
+- DeepEval & Langfuse
+- RAG & AI Evaluation
+- AWS & CI/CD Quality Engineering
+- Enterprise SaaS & Microservices Testing
+- Continuous Testing & Quality Gates
 
 ---
 
-## 🧠 Core Technical Skills
+# 🧠 Technical Skills
 
-### Quality Engineering & Test Management
+## Quality Engineering & Test Management
 
 - Test Strategy & Planning
 - Test Management
 - Risk-Based Testing
 - Functional Testing
-- Regression Testing
-- System Testing
 - Integration Testing
+- System Testing
+- Regression Testing
+- Smoke & Sanity Testing
 - Defect Management
-- Release Validation
-- Quality Metrics & Reporting
-- QA Process Improvement
-
-### Test Automation
-
-- Playwright
-- Selenium WebDriver
-- API Test Automation
-- Test Automation Framework Design
-- Data-Driven Testing
-- Parallel Test Execution
-- Regression Automation
-- Smoke & Sanity Automation
-
-### API & Backend Testing
-
-- REST API Testing
-- API Automation
-- Postman
-- REST-based Microservices Testing
-- Functional & Integration API Testing
-
-### Performance Engineering
-
-- Grafana k6
-- Load Testing
-- Performance Test Planning
-- Workload Modelling
-- Performance Analysis
-- Response Time Analysis
-- Throughput & Error Analysis
-- Performance Reporting
-
-### AI / GenAI Quality Engineering
-
-- AI-Powered Testing
-- Generative AI Testing
-- LLM Application Testing
-- RAG Evaluation
-- AI Quality Evaluation
-- LLM-as-a-Judge
-- DeepEval
-- Langfuse
-- Faithfulness Evaluation
-- Answer Relevancy
-- Contextual Relevancy
-- Contextual Recall
-- AI Regression Testing
-
-### Cloud & DevOps
-
-- AWS Cloud Environment
-- CI/CD Quality Engineering
-- GitHub Actions
-- Automated Smoke Testing
-- Automated Sanity Testing
-- Automated Regression Testing
-- Quality Gates
-- Continuous Testing
-
-### Programming & Scripting
-
-- Java
-- TypeScript
-- Test Automation Scripting
-- API Automation
-- Test Data Management
+- Release Quality Management
+- QA Metrics & Reporting
+- Quality Process Improvement
+- Agile / Scrum
 
 ---
 
-## 🏗️ Quality Engineering Focus
+## 🧪 Test Automation
 
-My current focus is on evolving traditional QA practices toward a modern **Quality Engineering model**:
+| Area | Technologies |
+|---|---|
+| UI Automation | **Playwright, Selenium WebDriver** |
+| API Testing | **Postman, REST API Automation** |
+| Languages | **Java, TypeScript** |
+| Framework Design | Page Object Model, Fixtures, Data-Driven Testing |
+| Execution | Parallel Testing, Cross-Browser Testing |
+| Reporting | Allure, HTML Reports |
+| CI/CD | GitHub Actions, AWS Pipelines |
+
+---
+
+## ⚡ Performance Engineering
+
+**Grafana k6**
+
+- Load Testing
+- Stress Testing
+- Scalability Testing
+- Workload Modelling
+- Concurrent User Testing
+- Performance Baseline
+- Response Time Analysis
+- Throughput Analysis
+- p90 / p95 / p99 Analysis
+- Error Rate Analysis
+- Performance Thresholds
+- Grafana Monitoring & Dashboards
+
+---
+
+# 🤖 AI / GenAI Quality Engineering
+
+Currently focused on applying **AI to software testing and establishing systematic quality evaluation for AI-powered applications.**
+
+### AI Testing Areas
+
+- Generative AI Testing
+- LLM Application Testing
+- AI Chatbot Testing
+- RAG Testing
+- RAG Evaluation
+- AI Regression Testing
+- Hallucination Detection
+- Prompt Testing
+- Evaluation Dataset Design
+- LLM-as-a-Judge
+- AI Quality Metrics
+- AI Observability
+
+### AI Testing Technology
+
+**DeepEval**
+
+- Faithfulness
+- Answer Relevancy
+- Contextual Relevancy
+- Contextual Recall
+- Contextual Precision
+- Hallucination Evaluation
+- Custom Evaluation Metrics
+
+**Langfuse**
+
+- LLM Tracing
+- AI Observability
+- Prompt Monitoring
+- Evaluation Tracking
+- AI Quality Metrics
+- Test & Evaluation Analysis
+
+### AI Quality Engineering Flow
 
 ```text
-             Quality Engineering
-                     │
-       ┌─────────────┼─────────────┐
-       │             │             │
-   Automation     Performance     AI Testing
-       │             │             │
-   Playwright       k6          DeepEval
-   API Testing     Grafana      Langfuse
-       │             │             │
-       └─────────────┼─────────────┘
-                     │
-                  CI/CD
-                     │
-                Quality Gates
-                     │
-              Continuous Quality
+                  AI / RAG Application
+                           │
+                           ▼
+                    Evaluation Dataset
+                           │
+                           ▼
+                        DeepEval
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+        Faithfulness   Relevancy      Context
+                                      Recall
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                        Langfuse
+                           │
+                  Tracing & Monitoring
+                           │
+                           ▼
+                    Quality Insights

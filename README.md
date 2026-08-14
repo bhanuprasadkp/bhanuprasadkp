@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a Quality Engineering Leader with extensive experience in software testing, QA leadership, test automation, and enterprise product quality across Logistics, Information Technology, and Mortgage domains.
+I am a Quality Engineering Leader with extensive experience in software testing, QA leadership, test automation, and enterprise product quality across Logistics/Supply Chain Management, Information Technology, and Mortgage domains.
 
 Currently working as an **Associate Director QA at ShipConsole**, focusing on building scalable quality engineering practices for enterprise shipping and carrier integration solutions.
 
